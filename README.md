@@ -7,4 +7,3 @@ ubyis.com
 ubyis.top
 edgeone.ai/pages/games-unblocked?source=tomchild
 1games.io
-https://gamejolt.com/games/GUN-KNIGHT/453603
