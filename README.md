@@ -28,3 +28,5 @@ http://qinahbgphq.vacantcranium.net/
 http://saoishine.panel-laboralcj.gob.mx/
 http://securlyforschools.ignorelist.com/
 }
+https://mexi.jobi.one/index.html
+https://lunaron.top/
