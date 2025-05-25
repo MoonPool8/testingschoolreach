@@ -11,3 +11,6 @@ edgeone.ai/pages/games-unblocked?source=tomchild
 gamenora.com/
 https://juststudy.uk/
 https://vapor.my/
+https://glseries.net/index.html
+-----WIP/COMING 25-26-----
+https://lupine.red/
