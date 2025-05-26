@@ -31,5 +31,6 @@ http://securlyforschools.ignorelist.com/
 https://mexi.jobi.one/index.html
 https://lunaron.top/
 ----Movies/Shows----
-https://chickensteve.my.canva.site/ (a minecraft movie)
-https://hexa.watch/ (bee movie and more)
+https://chickensteve.my.canva.site/ (a minecraft movie tested)
+https://hexa.watch/ (bee movie tested)
+https://sflix2.to/ (spongebob tested)
