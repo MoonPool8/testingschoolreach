@@ -32,3 +32,4 @@ https://mexi.jobi.one/index.html
 https://lunaron.top/
 ----Movies/Shows----
 https://chickensteve.my.canva.site/ (a minecraft movie)
+https://hexa.watch/ (bee movie and more)
