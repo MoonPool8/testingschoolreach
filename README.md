@@ -1,17 +1,17 @@
 # testingschoolreach
 ---Search Proxy---
-ubyis.com
-ubyis.top
+https://ubyis.com/
+https://ubyis.top/
 https://vapor.my/
 ------Games------
-ubyis.com
-ubyis.top
-edgeone.ai/pages/games-unblocked?source=tomchild
-1games.io
-gamenora.com/
+https://ubyis.com/
+https://ubyis.top/
+https://edgeone.ai/pages/games-unblocked?source=tomchild/
+https://1games.io/
+https://gamenora.com/
 https://juststudy.uk/
 https://vapor.my/
-https://glseries.net/index.html
+https://glseries.net/index.html/
 -----WIP/COMING 25-26-----
 https://lupine.red/
 -------Search/Games/More-----
@@ -28,7 +28,7 @@ http://qinahbgphq.vacantcranium.net/
 http://saoishine.panel-laboralcj.gob.mx/
 http://securlyforschools.ignorelist.com/
 }
-https://mexi.jobi.one/index.html
+https://mexi.jobi.one/index.html/
 https://lunaron.top/
 ----Movies/Shows----
 https://chickensteve.my.canva.site/ (a minecraft movie tested)
