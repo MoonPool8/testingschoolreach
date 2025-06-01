@@ -1,5 +1,18 @@
 # testingschoolreach
 ----Untested----
+https://sites.google.com/view/bananagameslol
+https://sites.google.com/view/game-hub-unbl0cked/home
+https://sites.google.com/view/lludos/home
+https://truffled.lol/
+https://outerworld-proxy.pages.dev/static/
+https://frogiesarca.de/
+https://sites.google.com/view/us2-v2/us2
+https://voucan-us4.github.io/
+https://void.radio.am/
+https://velara.cc/
+https://lunmeow.bearcat.rocks/
+https://gn-math.github.io/
+https://hollow.live/
 ---Search Proxy---
 https://ubyis.com/
 https://ubyis.top/
