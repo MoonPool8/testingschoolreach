@@ -1,6 +1,5 @@
 # testingschoolreach
 ----Untested----
-https://szvy.pro/
 https://www.gaming-escape.com/index.html
 https://canlite.org/
 https://ajh.college/
@@ -14,6 +13,7 @@ https://ubyis.top/
 https://vapor.my/
 https://lunaron.top/
 https://z-kit.net/
+https://szvy.pro/
 ------Games------
 https://ubyis.com/
 https://ubyis.top/
@@ -25,6 +25,7 @@ https://glseries.net/index.html/
 https://lunaron.top/
 https://z-kit.net/
 https://www.secured.wiki/
+https://szvy.pro/
 -----WIP/COMING SOON-----
 https://lupine.red/ (2025-2026 school year)
 https://benrogo.net/ (August 2025)
