@@ -1,6 +1,5 @@
 # testingschoolreach
 ----Untested----
-https://www.secured.wiki/
 https://szvy.pro/
 https://www.gaming-escape.com/index.html
 https://canlite.org/
@@ -25,6 +24,7 @@ https://juststudy.uk/
 https://glseries.net/index.html/
 https://lunaron.top/
 https://z-kit.net/
+https://www.secured.wiki/
 -----WIP/COMING SOON-----
 https://lupine.red/ (2025-2026 school year)
 https://benrogo.net/ (August 2025)
