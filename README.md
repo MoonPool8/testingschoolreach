@@ -1,6 +1,14 @@
 # testingschoolreach
 ----Untested----
-https://mjjjqimwxv.warhawkenterprises.com/asdjklhfskjafhakfhueoyraehfjkcnjkdscnsjakdreuoiwefh/index.html
+https://www.secured.wiki/
+https://szvy.pro/
+https://www.gaming-escape.com/index.html
+https://canlite.org/
+https://ajh.college/
+https://geometrylearningv3.neocities.org/
+https://starlighttt.netlify.app/
+https://void.ubyis.org/
+https://shuttlemath.com/
 ---Search Proxy---
 https://ubyis.com/
 https://ubyis.top/
@@ -17,8 +25,9 @@ https://juststudy.uk/
 https://glseries.net/index.html/
 https://lunaron.top/
 https://z-kit.net/
------WIP/COMING 25-26-----
-https://lupine.red/
+-----WIP/COMING SOON-----
+https://lupine.red/ (2025-2026 school year)
+https://benrogo.net/ (August 2025)
 -------Other-----
 ----Movies/Shows----
 https://chickensteve.my.canva.site/ (a minecraft movie tested)
