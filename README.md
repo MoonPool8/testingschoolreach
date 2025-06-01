@@ -1,18 +1,6 @@
 # testingschoolreach
 ----Untested----
-https://sites.google.com/view/bananagameslol
-https://sites.google.com/view/game-hub-unbl0cked/home
-https://sites.google.com/view/lludos/home
-https://truffled.lol/
-https://outerworld-proxy.pages.dev/static/
-https://frogiesarca.de/
-https://sites.google.com/view/us2-v2/us2
-https://voucan-us4.github.io/
-https://void.radio.am/
-https://velara.cc/
-https://lunmeow.bearcat.rocks/
-https://gn-math.github.io/
-https://hollow.live/
+
 ---Search Proxy---
 https://ubyis.com/
 https://ubyis.top/
@@ -20,6 +8,7 @@ https://vapor.my/
 https://lunaron.top/
 https://z-kit.net/
 https://szvy.pro/
+https://hollow.live/
 ------Games------
 https://ubyis.com/
 https://ubyis.top/
@@ -33,6 +22,7 @@ https://z-kit.net/
 https://www.secured.wiki/
 https://szvy.pro/
 https://www.gaming-escape.com/index.html
+https://hollow.live/
 -----WIP/COMING SOON-----
 https://lupine.red/ (2025-2026 school year)
 https://benrogo.net/ (August 2025)
@@ -41,3 +31,16 @@ https://benrogo.net/ (August 2025)
 https://chickensteve.my.canva.site/ (a minecraft movie tested)
 https://hexa.watch/ (bee movie tested)
 https://sflix2.to/ (spongebob tested)
+----DONT WORK!!----
+https://sites.google.com/view/bananagameslol
+https://sites.google.com/view/game-hub-unbl0cked/home
+https://sites.google.com/view/lludos/home
+https://truffled.lol/
+https://outerworld-proxy.pages.dev/static/
+https://frogiesarca.de/
+https://sites.google.com/view/us2-v2/us2
+https://voucan-us4.github.io/
+https://void.radio.am/
+https://velara.cc/
+https://lunmeow.bearcat.rocks/
+https://gn-math.github.io/
