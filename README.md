@@ -26,6 +26,7 @@ https://www.secured.wiki/
 https://szvy.pro/
 https://www.gaming-escape.com/index.html
 https://hollow.live/
+https://play.tetris.com/
 
 -----WIP/COMING SOON-----
 
