@@ -1,6 +1,11 @@
 # testingschoolreach
 ----Untested----
 
+https://pizza.frogiee.one/
+https://app.flamepass.com/
+https://coproxy.io/free-web-proxy/
+https://proxyium.com/
+
 ---Search Proxy---
 
 https://ubyis.com/
