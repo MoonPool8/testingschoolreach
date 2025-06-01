@@ -1,11 +1,5 @@
 # testingschoolreach
 ----Untested----
-https://canlite.org/
-https://ajh.college/
-https://geometrylearningv3.neocities.org/
-https://starlighttt.netlify.app/
-https://void.ubyis.org/
-https://shuttlemath.com/
 ---Search Proxy---
 https://ubyis.com/
 https://ubyis.top/
