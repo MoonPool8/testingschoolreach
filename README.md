@@ -27,6 +27,7 @@ https://szvy.pro/
 https://www.gaming-escape.com/index.html
 https://hollow.live/
 https://play.tetris.com/
+https://www.coolmathgames.com/
 
 -----WIP/COMING SOON-----
 
