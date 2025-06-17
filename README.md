@@ -1,6 +1,15 @@
 # testingschoolreach
 ----Untested----
 
+https://pub-72a07ccb59224ed6985d36c43eb951ab.r2.dev/index.html
+https://coldmirror.b-cdn.net/index.html
+https://barbenheimer.b-cdn.net/
+https://byod.observa.watch.cdn.cloudflare.net/
+https://cozy-flan-e27bec.netlify.app/#://page/hm
+https://observa.watch/
+https://obht.fiberscope.dev/
+https://observa.fiberscope.cloud/
+
 ---Search Proxy---
 
 https://ubyis.com/
