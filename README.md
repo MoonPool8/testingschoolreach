@@ -49,7 +49,6 @@ https://acornz.on-to.space/
 -----WIP/COMING SOON-----
 
 https://lupine.red/ (2025-2026 school year)
-https://benrogo.net/ (August 2025)
 
 -------Other-----
 
