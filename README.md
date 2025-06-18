@@ -1,17 +1,6 @@
 # testingschoolreach
 ----Untested----
 
-pass: Tide123
-https://tide-tau.vercel.app/ (main link)
-https://tidev2.netlify.app/
-https://xxmizzeryxx.github.io/Tide/
-https://tide-git-main-xxmizzeryxxs-projects.vercel.app/
-https://tide-xxmizzeryxxs-projects.vercel.app/
-https://tide-psi.vercel.app/
-https://tide-mizzerys-projects.vercel.app/
-https://tidev3.w3spaces.com/
-https://tide-xxmizzeryxx.wasmer.app/
-
 pass: Acorn!
 https://the-acornz.github.io/
 https://acornz.on-to.space/
@@ -47,6 +36,11 @@ https://www.gaming-escape.com/index.html
 https://hollow.live/
 https://play.tetris.com/
 https://www.coolmathgames.com/
+{
+pass: Tide123
+https://tidev3.w3spaces.com/
+https://tide-xxmizzeryxx.wasmer.app/
+}
 
 -----WIP/COMING SOON-----
 
