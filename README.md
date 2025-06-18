@@ -1,12 +1,5 @@
 # testingschoolreach
 ----Untested----
-pass: Evadion!
-https://evadion.on-to.space/
-https://evadion.pages.dev/
-https://evadion.github.io/
-https://evadion.netlify.app/
-https://evadion.org/
-https://evadion.xyz
 
 pass: Tide123
 https://tide-tau.vercel.app/ (main link)
@@ -32,7 +25,11 @@ https://lunaron.top/
 https://z-kit.net/
 https://szvy.pro/
 https://hollow.live/
-
+{
+pass: Evadion!
+https://evadion.org/
+https://evadion.xyz
+}
 ------Games------
 
 https://ubyis.com/
@@ -65,6 +62,10 @@ https://sflix2.to/ (spongebob tested)
 
 ----DONT WORK!!----
 
+https://evadion.on-to.space/
+https://evadion.pages.dev/
+https://evadion.github.io/
+https://evadion.netlify.app/
 https://sites.google.com/view/bananagameslol
 https://sites.google.com/view/game-hub-unbl0cked/home
 https://sites.google.com/view/lludos/home
