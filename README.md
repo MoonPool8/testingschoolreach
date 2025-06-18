@@ -1,10 +1,6 @@
 # testingschoolreach
 ----Untested----
 
-pass: Acorn!
-https://the-acornz.github.io/
-https://acornz.on-to.space/
-
 ---Search Proxy---
 
 https://ubyis.com/
@@ -18,6 +14,10 @@ https://hollow.live/
 pass: Evadion!
 https://evadion.org/
 https://evadion.xyz
+}
+{
+pass: Acorn!
+https://acornz.on-to.space/
 }
 ------Games------
 
@@ -40,6 +40,10 @@ https://www.coolmathgames.com/
 pass: Tide123
 https://tidev3.w3spaces.com/
 https://tide-xxmizzeryxx.wasmer.app/
+}
+{
+pass: Acorn!
+https://acornz.on-to.space/
 }
 
 -----WIP/COMING SOON-----
