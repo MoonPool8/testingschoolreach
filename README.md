@@ -36,6 +36,7 @@ https://www.gaming-escape.com/index.html
 https://hollow.live/
 https://play.tetris.com/
 https://www.coolmathgames.com/
+https://neal.fun/
 {
 pass: Tide123
 https://tidev3.w3spaces.com/
