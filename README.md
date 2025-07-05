@@ -5,7 +5,6 @@
 
 https://ubyis.com/
 https://ubyis.top/
-https://vapor.my/
 https://lunaron.top/
 https://z-kit.net/
 https://szvy.pro/
@@ -76,3 +75,4 @@ https://void.radio.am/
 https://velara.cc/
 https://lunmeow.bearcat.rocks/
 https://gn-math.github.io/
+https://vapor.my/
