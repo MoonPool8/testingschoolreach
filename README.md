@@ -5,13 +5,11 @@
 
 https://ubyis.com/
 https://ubyis.top/
-https://lunaron.top/
 https://z-kit.net/
 https://szvy.pro/
 https://hollow.live/
 {
 pass: Evadion!
-https://evadion.org/
 https://evadion.xyz
 }
 {
@@ -75,4 +73,6 @@ https://void.radio.am/
 https://velara.cc/
 https://lunmeow.bearcat.rocks/
 https://gn-math.github.io/
+https://lunaron.top/
 https://vapor.my/
+https://evadion.org/
